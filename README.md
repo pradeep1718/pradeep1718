@@ -23,8 +23,8 @@
 > *"YOUR_MOTTO_OR_TAGLINE"*
 
 Brief introduction about yourself. Include:
-- 🎓 **Your Degree** – Your University (Year)
-- 💼 **Your Experience** – Brief highlight
+- 🎓 **Your Degree** – B.Tech Computer Science (2024)
+- 💼 **Your Experience** – 
 - 🏆 **Your Key Achievement**
 - 🌟 **Your Passion / What you do**
 
